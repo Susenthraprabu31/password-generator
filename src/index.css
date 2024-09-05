@@ -1,0 +1,23 @@
+.login {
+	min-height: 100vh;
+  }
+  
+  .bg-image {
+	background-image: url('https://usa.bootcampcdn.com/wp-content/uploads/sites/119/2021/03/CDG_blog_post_image_06-850x412.jpg');
+	background-size: cover;
+	background-position: center;
+  }
+  
+  .login-heading {
+	font-weight: 300;
+  }
+  
+  .btn-login {
+	font-size: 0.9rem;
+	letter-spacing: 0.05rem;
+	padding: 0.75rem 1rem;
+  }
+  body{
+	background-color: #ffffff;
+  background-image: url('https://usa.bootcampcdn.com/wp-content/uploads/sites/119/2021/03/CDG_blog_post_image_06-850x412.jpg');
+  }
